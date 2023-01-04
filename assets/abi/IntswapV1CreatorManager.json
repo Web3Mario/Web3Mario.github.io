@@ -29,6 +29,12 @@
       "anonymous": false,
       "inputs": [{
           "indexed": false,
+          "internalType": "bytes32",
+          "name": "id",
+          "type": "bytes32"
+        },
+        {
+          "indexed": false,
           "internalType": "address",
           "name": "pair",
           "type": "address"
@@ -70,6 +76,12 @@
     {
       "anonymous": false,
       "inputs": [{
+          "indexed": false,
+          "internalType": "bytes32",
+          "name": "id",
+          "type": "bytes32"
+        },
+        {
           "indexed": false,
           "internalType": "address",
           "name": "pair",
@@ -113,6 +125,12 @@
       "anonymous": false,
       "inputs": [{
           "indexed": false,
+          "internalType": "bytes32",
+          "name": "id",
+          "type": "bytes32"
+        },
+        {
+          "indexed": false,
           "internalType": "address",
           "name": "pair",
           "type": "address"
@@ -154,6 +172,12 @@
     {
       "anonymous": false,
       "inputs": [{
+          "indexed": false,
+          "internalType": "bytes32",
+          "name": "id",
+          "type": "bytes32"
+        },
+        {
           "indexed": false,
           "internalType": "address",
           "name": "pair",
@@ -197,6 +221,12 @@
       "anonymous": false,
       "inputs": [{
           "indexed": false,
+          "internalType": "bytes32",
+          "name": "id",
+          "type": "bytes32"
+        },
+        {
+          "indexed": false,
           "internalType": "address",
           "name": "pair",
           "type": "address"
@@ -239,6 +269,24 @@
         }
       ],
       "name": "NewApplyWithdrawRoyalty",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [{
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "oldDelay",
+          "type": "uint256"
+        },
+        {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "newDelay",
+          "type": "uint256"
+        }
+      ],
+      "name": "NewDelay",
       "type": "event"
     },
     {
@@ -304,8 +352,7 @@
         "type": "uint256"
       }],
       "stateMutability": "view",
-      "type": "function",
-      "constant": true
+      "type": "function"
     },
     {
       "inputs": [],
@@ -316,8 +363,7 @@
         "type": "address"
       }],
       "stateMutability": "view",
-      "type": "function",
-      "constant": true
+      "type": "function"
     },
     {
       "inputs": [{
@@ -343,8 +389,7 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function",
-      "constant": true
+      "type": "function"
     },
     {
       "inputs": [{
@@ -359,8 +404,7 @@
         "type": "address"
       }],
       "stateMutability": "view",
-      "type": "function",
-      "constant": true
+      "type": "function"
     },
     {
       "inputs": [],
@@ -371,8 +415,7 @@
         "type": "address"
       }],
       "stateMutability": "view",
-      "type": "function",
-      "constant": true
+      "type": "function"
     },
     {
       "inputs": [],
@@ -390,8 +433,7 @@
         "type": "address"
       }],
       "stateMutability": "view",
-      "type": "function",
-      "constant": true
+      "type": "function"
     },
     {
       "inputs": [],
@@ -402,8 +444,7 @@
         "type": "address"
       }],
       "stateMutability": "view",
-      "type": "function",
-      "constant": true
+      "type": "function"
     },
     {
       "inputs": [{
@@ -592,6 +633,17 @@
     },
     {
       "inputs": [{
+        "internalType": "uint256",
+        "name": "_delay",
+        "type": "uint256"
+      }],
+      "name": "updateDelay",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [{
           "internalType": "address",
           "name": "_nft",
           "type": "address"
@@ -609,8 +661,7 @@
         "type": "bool"
       }],
       "stateMutability": "view",
-      "type": "function",
-      "constant": true
+      "type": "function"
     },
     {
       "inputs": [{
@@ -631,8 +682,7 @@
         "type": "bool"
       }],
       "stateMutability": "view",
-      "type": "function",
-      "constant": true
+      "type": "function"
     }
   ]
 }
