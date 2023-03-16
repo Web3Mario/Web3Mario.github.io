@@ -1,6 +1,6 @@
 {
-  "name": "intswap-frontend",
-  "short_name": "intswap-frontend",
+  "name": "intswap",
+  "short_name": "intswap",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
