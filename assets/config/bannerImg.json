@@ -16,5 +16,12 @@
     "0xee260BA1424c6e3AB0Bf25898E8c4BfC14f296A9":"/assets/imgs/collection_banner/PixelShibabanner.jpg",
     "0xBF4d78be8abE3ba8B1BF060523bE29Bbc8A7F95d":"/assets/imgs/collection_banner/EraBears-banner.jpg",
     "0x40e3D8EBf601F1Aa71daCFFBEA57AbE696A61964":"/assets/imgs/collection_banner/the_syncer_banner.png",
-    "0x02775959eed00d9eec48e73a9fec0fdca89dc8c5":"/assets/imgs/collection_banner/zkpenguin.jpg"
+    "0x02775959eed00d9eec48e73a9fec0fdca89dc8c5":"/assets/imgs/collection_banner/zkpenguin.jpg",
+
+    "0x9ebfe41553ca5a31824ffadf2b0805da3d4aa0bf": "/assets/imgs/collection_banner/BASIC.jpg",
+    "0x7be962d32ae4d07bd715ab0b7ac93d8f499acdcf": "/assets/imgs/collection_banner/COMMON.jpg",
+    "0x35bd0d795437e220e987f640ff477572b14729e7": "/assets/imgs/collection_banner/PREVIOUS.jpg",
+    "0xc2abb16e06124fba36d045027b03793740e10f38": "/assets/imgs/collection_banner/RARE.jpg",
+
+    "0xd07180c423f9b8cf84012aa28cc174f3c433ee29": "/assets/imgs/collection_banner/zksync.jpg"
 }

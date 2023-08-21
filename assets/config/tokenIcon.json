@@ -26,5 +26,10 @@
   "0x02775959eed00d9eec48e73a9fec0fdca89dc8c5": "/assets/imgs/token_icon/zkpenguin.jpg",
   "0x5aa2877290d32b84701eac3ef9b0e57d9cfd0bda": "/assets/imgs/token_icon/zkPotion.webp",
   "0x26dca758fefead7f24295c1eed078a2d58cf3e54": "/assets/imgs/token_icon/ZkApePunks.webp",
-  "0xd5ece5aa1fdf051bd84158c16e000cfec13192c8": "/assets/imgs/token_icon/zkshields.jpg"
+  "0xd5ece5aa1fdf051bd84158c16e000cfec13192c8": "/assets/imgs/token_icon/zkshields.jpg",
+  "0x9ebfe41553ca5a31824ffadf2b0805da3d4aa0bf": "/assets/imgs/token_icon/basic.png",
+  "0x7be962d32ae4d07bd715ab0b7ac93d8f499acdcf": "/assets/imgs/token_icon/common.png",
+  "0x35bd0d795437e220e987f640ff477572b14729e7": "/assets/imgs/token_icon/precious.png",
+  "0xc2abb16e06124fba36d045027b03793740e10f38": "/assets/imgs/token_icon/rare.png",
+  "0xd07180c423f9b8cf84012aa28cc174f3c433ee29": "/assets/imgs/token_icon/zksync.avif"
 }
