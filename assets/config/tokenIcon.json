@@ -31,5 +31,9 @@
   "0x7be962d32ae4d07bd715ab0b7ac93d8f499acdcf": "/assets/imgs/token_icon/common.png",
   "0x35bd0d795437e220e987f640ff477572b14729e7": "/assets/imgs/token_icon/precious.png",
   "0xc2abb16e06124fba36d045027b03793740e10f38": "/assets/imgs/token_icon/rare.png",
-  "0xd07180c423f9b8cf84012aa28cc174f3c433ee29": "/assets/imgs/token_icon/zksync.avif"
+  "0xd07180c423f9b8cf84012aa28cc174f3c433ee29": "/assets/imgs/token_icon/zksync.avif",
+
+  "0x76314a360eed8dd13c7262739a70c2a5e66238d8": "/assets/imgs/token_icon/zkDX-NFT-Lv1.jpeg",
+  "0x3AA3625Eb0e7B53a24F6BBB053cFAB4f620D37c7": "/assets/imgs/token_icon/zkDX-NFT-Lv2.jpeg",
+  "0x775BA5696D8265898F5c780A3274c356F00Abd29": "/assets/imgs/token_icon/zkDX-NFT-Lv5.jpeg"
 }
