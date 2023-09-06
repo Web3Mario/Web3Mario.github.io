@@ -45,5 +45,10 @@
   "0x7d5861cfe1C74Aaa0999b7E2651Bf2ebD2A62D89": "/assets/imgs/token_icon/Logo_base-day-one.jpg",
   "0xe4c3aa3978b61431c070109629a687bc42d66d8f": "/assets/imgs/token_icon/Logo_the-masterpiece-collection-6.avif",
 
-  "0x0c2d01a310aea5b61282daaeb57dd7d26a1caf3b":"/assets/imgs/token_icon/ZKTROOPS.jpg"
+  "0x0c2d01a310aea5b61282daaeb57dd7d26a1caf3b":"/assets/imgs/token_icon/ZKTROOPS.jpg",
+
+  "0xdc4e56bede8d274973da08f3d5957a69288ba5c7": "/assets/imgs/token_icon/basic.png",
+  "0xcbdc18859ddbd626c21c8ee6ea309ab271cad423": "/assets/imgs/token_icon/common.png",
+  "0xf86115e14332b47b6e9b713968cd67af4e3939d0": "/assets/imgs/token_icon/precious.png",
+  "0xf80ebbbf8c96b934cd3a5bb08844a6ec039fbc3b": "/assets/imgs/token_icon/rare.png"
 }
