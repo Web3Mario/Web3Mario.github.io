@@ -51,5 +51,11 @@
   "0xdc4e56bede8d274973da08f3d5957a69288ba5c7": "/assets/imgs/token_icon/basic.png",
   "0xcbdc18859ddbd626c21c8ee6ea309ab271cad423": "/assets/imgs/token_icon/common.png",
   "0xf86115e14332b47b6e9b713968cd67af4e3939d0": "/assets/imgs/token_icon/precious.png",
-  "0xf80ebbbf8c96b934cd3a5bb08844a6ec039fbc3b": "/assets/imgs/token_icon/rare.png"
+  "0xf80ebbbf8c96b934cd3a5bb08844a6ec039fbc3b": "/assets/imgs/token_icon/rare.png",
+
+  "0x44ad30390b7d4bdf95760df2d8720b1fd1efb132": "/assets/imgs/token_icon/logo-marvels.jpg",
+  "0xad8a95b347b96274940229754dfd8569f2b72bf4": "/assets/imgs/token_icon/logo-zkgods.jpg",
+  "0xb94cb0320d91bf712a00b86c7f7c1ea20d105248": "/assets/imgs/token_icon/logo-zkCastle.jpg",
+  "0x537f0ddab1eb37508b0243013e76da837061cee9": "/assets/imgs/token_icon/logo-zkunicorns.jpg",
+  "0x4ff79b29a6255ba8202c94f937a71f4003a39776": "/assets/imgs/token_icon/logo-zkDagger.jpg"
 }
