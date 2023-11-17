@@ -37,8 +37,6 @@
   "0x3AA3625Eb0e7B53a24F6BBB053cFAB4f620D37c7": "/assets/imgs/token_icon/zkDX-NFT-Lv2.jpeg",
   "0x775BA5696D8265898F5c780A3274c356F00Abd29": "/assets/imgs/token_icon/zkDX-NFT-Lv5.jpeg",
 
-  "0x4111044e84Ca4069F85f8C8c508a06e76D390e7c": "/assets/imgs/token_icon/OMNI_Crypto_club.png",
-
   "0x5519dc53d698ce6b9eefc71efc454e4b269307b9": "/assets/imgs/token_icon/1337_Brians_logo.gif",
   "0xc9Cca8E570F81a7476760279B5B19cc1130B7580": "/assets/imgs/token_icon/DeeKay_Motion_logo.avif",
   "0x33eD5107f821bb1465da30B7dCe4Fb7105B0Ad16": "/assets/imgs/token_icon/LAIDBACK _LUKE_logo.avif",
@@ -75,5 +73,10 @@
   "0x6cb60eef90ff9e748b61d1729c9a7356a45b9cce": "/assets/imgs/token_icon/logo-amazons.jpg",
   "0x5f694c662bc539d225b0eb9e86230c897ba12cd6": "/assets/imgs/token_icon/logo-guardian.jpg",
   "0x9eb6452492e557edcc2a413c670bf67614acd87c": "/assets/imgs/token_icon/logo-autumncar.jpg",
-  "0x9b371de896ac08f1a4a965b9287ae668bd95906e": "/assets/imgs/token_icon/logo-zkskullsevolutions.jpg"
+  "0x9b371de896ac08f1a4a965b9287ae668bd95906e": "/assets/imgs/token_icon/logo-zkskullsevolutions.jpg",
+
+  "0x0d154fae0ee24ce21f41d43833aa8104b9029220": "/assets/imgs/token_icon/logo-zkstarwars.jpg",
+  "0x4b7dd3386513D9eea6eb418474011973a809d807": "/assets/imgs/token_icon/logo-erarabbit.jpg",
+  "0x4111044e84Ca4069F85f8C8c508a06e76D390e7c": "/assets/imgs/token_icon/logo-zklions.jpg",
+  "0xa1B11E431b456d0e0064E7cb65de77941870912b": "/assets/imgs/token_icon/logo-zkspaceships.jpg"
 }
