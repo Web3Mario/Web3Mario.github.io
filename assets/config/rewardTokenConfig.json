@@ -19,6 +19,10 @@
     "price": "1"
   },
   {
+    "rewardToken": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+    "price": "1"
+  },
+  {
     "rewardToken": "0xe15162d14BFC1b67a9794B27C8e47B2bD811f255",
     "price": "0.0005"
   }
